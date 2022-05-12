@@ -1,0 +1,4 @@
+export const INCREMENT = 'ACTION_INCREMENT';
+export const DECREMENT = 'ACTION_DECREMENT';
+export const RESET = 'ACTION_RESET';
+export const UPDATE_DIFF = 'ACTION_UPDATE_DIFF';
